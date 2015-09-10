@@ -1,0 +1,1 @@
+Yesterday we connected our directory on our computer with the directory on Github. We also pushed all of the files in the directory we made onto the directory on Github.
