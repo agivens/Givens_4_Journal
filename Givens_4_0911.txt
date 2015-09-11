@@ -1,0 +1,2 @@
+Pseudocode is practice code, or you could call it "fake code".
+We will use psuedocode to practice and plan the code we will create in class.
