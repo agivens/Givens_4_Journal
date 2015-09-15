@@ -1,0 +1,1 @@
+IDE stands for integrated development environment. It is used to develop software.
