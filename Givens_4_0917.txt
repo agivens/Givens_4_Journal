@@ -1,0 +1,9 @@
+1) int- is a whoel number; used to represent a whole number in code
+
+2)float- number with decimals; used to represent a number with decimals in code
+
+3)Char- a character; used to represent keywords
+
+4)string- a string of words; used to print out phrases
+
+5)booleen- a true/false statement; used to identify statements as true or false
