@@ -1,0 +1,2 @@
+Yes, I did get credit for all of my journals. It is important to use the naming convention specified so your file can stand out in the middle of all the rest of the files. The command to copy in Linux is "cp filename destination". To copy all of the directory
+, type "cp * destination".
