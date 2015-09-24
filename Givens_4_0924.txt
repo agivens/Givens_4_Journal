@@ -1,0 +1,5 @@
+Open source software is software who's code is available to change or modify.
+Proprietary software is software usually owned by a company who's code is
+not available to change or modify. The GPL license allows the programs code to
+be changed, modified, and/or copied . The MIT license doesn't allow the code 
+to be changed, modified, and/or copied.
