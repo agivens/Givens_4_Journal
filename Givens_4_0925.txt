@@ -1,0 +1,10 @@
+Shareware is a type of proprietary software that is initially free of charge
+to users, who are encouraged to make and share copies. Software that runs for
+a limited amount of time before it expires. Software that displays or
+downloads advertising material when user is online. Crippleware is software
+that does not work properly until the user buys a fully functional version. 
+Freemium is when a product or service is provided, free of charge, but money is
+charged for other features. Freeware is software that is free, that may have 
+restrictions placed on it. Richard Stallman is the founder of GNU Project and
+Free Software Foundation. Eben Moglen is the founder of Software Freedom
+Law Center. Lawrence Lessig is the founder of Creative Commons.
