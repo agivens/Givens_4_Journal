@@ -1,0 +1,5 @@
+You count in Java by making a for loop and printing the results. You check to
+see if a number is divisble by using a modulo, an if statement, and setting it
+equal to 0. If the statement isn't true, then it isn't divisible. You can
+also use a modulo, if statement, and setting the modulo equal to 0 to track if
+the number has a divisor.
