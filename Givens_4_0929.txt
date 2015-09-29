@@ -1,0 +1,2 @@
+Methods are mini programs. Methods are very helpful when you have to write the
+same section of code over and over.
