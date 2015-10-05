@@ -1,0 +1,3 @@
+Code comments are comments in the code that the computer ignores. Code
+comments are good for letting anyone viewing the code know what each section
+of code does.
