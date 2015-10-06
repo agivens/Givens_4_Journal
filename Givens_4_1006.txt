@@ -1,0 +1,3 @@
+Methods are like mini programs. Classes are like folder. holding all the files
+in one central place. An instance is when you create something new inside of a
+class. Class methods are 
