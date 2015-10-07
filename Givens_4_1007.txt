@@ -1,0 +1,3 @@
+A java class is a blueprint for objects. A Java Class in JavaFX might be a
+blueprint for how something acts or looks in the finished product. A method
+for class might be study() or beQuietandListen().
