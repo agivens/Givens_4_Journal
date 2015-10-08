@@ -1,0 +1,5 @@
+I have no idea what I will do for the art project. I'll probably just
+experient until I have an idea. Methods I might use would be for color
+and fill. I wouldn't want to type color and fill 50 times for one project.
+When I incorporate a for loop, I'll probably also incorporate the if else
+statements.
