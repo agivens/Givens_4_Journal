@@ -1,0 +1,2 @@
+The purpose of my code art is learn aout JavaFX andhow to use it. My code art
+also gives me a grade.
