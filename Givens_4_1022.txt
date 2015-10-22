@@ -1,0 +1,4 @@
+The purpose of the code art is to showcase the most "important" part of the
+code and the picture it creates. Creating code art to learn has a more visual 
+final product. This makes it easier to see what each part of the code does 
+what, therefore making it easier to learn.
