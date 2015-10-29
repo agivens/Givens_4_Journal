@@ -1,0 +1,3 @@
+No, my guessing game is not a guessing game. It has to be restarted in order
+to be replayed. If I could replay the game without restarting the program, it
+would be better.
