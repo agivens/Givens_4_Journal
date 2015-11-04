@@ -1,0 +1,6 @@
+A method is a way to keep your main clear of clutter. The code is made outside
+of main and then called in main. I used the method playGame() in my guessing 
+game to recieve the user's guess and tell the user if they are correct and if 
+their guess is too high or low. A while loop is a loop that will continue to
+work until the conditions are not met. I used a while loop to play the game multiple times. I used a boolean to establish when the game is over. I
+used the counter to keep track of how many guesses the player had left.
