@@ -1,0 +1,73 @@
+diagraph Givens_4_Map {
+
+A [label="You find yourself standing in the lobby of a three floored building.
+What do you do? Do you stay on the Ground Floor, or travel to another floor?"]
+B [label="You stay on the Ground Floor. Do you stay inside and see what happens
+or venture outside the building?"]
+C [label="You are in the elevator. Which floor do you go to? Second, Third, or
+Top floor?"]
+D [label="You stay inside the building. You now have time to really look around
+at your surroundings. You notice the building looks very old. Just as you come
+to that conclusion, you fall through the floor into the borded up basement.
+You broke your neck. BAD END"]
+E [label="You are brave and venture outside the building. It's dark and you 
+can't see a thing. You wander in the void outside for eternity. BAD END"]
+F [label="The elevator stops on the second floor. It's dark and you can't see
+anything ahead of you. If you squint you can see three doors. Which door do you
+choose: one, two, or three?"]
+G [label="The elevator stops on the third floor. A long hall stretchs before 
+you. The lights are flickering on and off, but provide enough light to see 
+something move at the end of the hall. There is a door to the right of the 
+elevator. Do you investigate the movement or explore the door next to the 
+elevator?"]
+H [label="The elevator stops on the top floor. The doors open and you are 
+immediately blinded by a bright light. Do you fumble for another button or 
+follow the wall and feel your way around on the top floor?"]
+I [label="You enter door number one. It's the doorway to the staircase. You
+walk down and discover a small group of people living down at the bottom.
+They explain that outside the door is a void and they are the only people
+left. You live out the remainder of your life with your new friends. GOOD END"]
+J [label="You enter door number two. It's the door to a fully furnished
+apartment. A cat is already living there. There is a supply of food and water
+big enough to last a lifetime. You and your feline friend live out the
+remainder of your lives there, losing a bit of your sanity each day. OKAY END"]
+K [label="You enter door number three. A man is inside with a bloody syringe.
+He attacks you and you are unable to fight him off. BAD END"]
+L [label="You wander down the hall to find out what moved. A mad man stabs
+you with a bloody syringe. BAD END"]
+M [label="You explore the door next to the elevator. It's the doorway to the 
+staircase. You walk down and discover a small group of people living down at 
+the bottom. They explain that outside the door is a void and they are the only 
+people left. You live out the remainder of your life with your new friends. 
+GOOD END."]
+N [label="You hit a random button on the elevator panel. You get transported
+to the basement. You find the door is borded up. Do you ram it or find 
+something to break the door down?"]
+O [label="You wander around, feeling your way across the floor. The wood has 
+rotted away at a section of the floor. You fall through the gap. BAD END"]
+P [label="You ram the door down. A rabbid dog is waiting inside. It attacks
+you. Because you cannot defend yourself, you don't survive the encounter.
+BAD END"]
+Q [label="You find a beam that must have fallen. You use it to break down the 
+door and leap inside the doorway as it collapses behind you. A rabbid dog, who
+was inside attacks you. You mange to fend it off. Because you are trapped,
+you eventually die of starvation. BAD END"]
+
+A->B
+A->C
+B->D
+B->E
+C->F
+C->G
+C->H
+F->I
+F->J
+F->K
+G->L
+G->M
+H->N
+H->O
+N->P
+N->Q
+
+}
