@@ -1,0 +1,2 @@
+The way you track the player's achievements by using different classes.
+Different classes also can track HP and items collected.
