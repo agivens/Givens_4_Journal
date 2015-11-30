@@ -1,0 +1,5 @@
+I feel as though I was pretty successful. I accomplished most of what I wanted
+to include/add. I couldn't get a light I wanted to add in to work. The light
+would register as being found when it hadn't and I could find the time to
+troubleshoot it. I had to get rid of it. Other than that, everything I wanted
+to add worked and was able to stay in the final program.
