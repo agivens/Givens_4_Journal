@@ -1,0 +1,6 @@
+I created a maze which you have to escape from before the enemy finds you. The
+blocked variable to stop you from walking through walls wasn't functioning 
+correctly. I almost finished before the break. I just had so many reviews to 
+do, I spent my time reviewing and completing my reviews for other classes. I
+was behind the timeline for most of the week because I missed Monday and 
+had to catch up.
