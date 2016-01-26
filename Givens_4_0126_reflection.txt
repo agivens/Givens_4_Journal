@@ -1,0 +1,4 @@
+I could have been more organized and caught up to the class. When 
+troubleshooting, I found the area that wasn't preformig correctly and 
+attempted to solve the problem. When I was still stuck, I compared the item to
+its counterpart in the example code. That helped me to fix all problems I had.
