@@ -1,0 +1,4 @@
+You import org.newdawn.slick.Image, declare the image with public Image name, 
+and add the image with name = newImage and then specify where to find the 
+image. The image you imported takes up the whole game window because it's 
+treated as an end/win screen.
