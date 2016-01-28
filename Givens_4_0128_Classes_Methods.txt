@@ -1,0 +1,3 @@
+This excerpt of code is a method. It isn't a class because it doesn't state 
+it's a class and it needs certain things typed into it. It cannot run without
+a game container, state based game, and graphics involved in order to work.
