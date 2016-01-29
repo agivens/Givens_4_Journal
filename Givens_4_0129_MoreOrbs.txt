@@ -1,0 +1,3 @@
+A class constructor specifies the method's involvement with the rest of the 
+code. Private should be included in the class constructor. The orbs aren't 
+affected by the rest of the code, unless called by a method.
