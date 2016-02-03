@@ -1,0 +1,2 @@
+Revising and retweaking our code is necessary because it helps us to find the 
+bugs in our code and make it look neater.
