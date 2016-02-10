@@ -1,0 +1,9 @@
+I only had one problem when adding orbs to the game, and the problem didn't
+involve the orb code. The problem centered around my map. A couple of
+problems I probably could see if I could test it would be:
+
+1: making the orb move with my character
+2: creating the hitbox
+3: making the orb disappear when the hitbox intersects with my enemy
+4: making the orb visible at all
+5: making the orb appear when the spacebar is hit
