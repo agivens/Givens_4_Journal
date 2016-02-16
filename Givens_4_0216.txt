@@ -1,0 +1,1 @@
+An array was used to block the tiles in my Slick game.
