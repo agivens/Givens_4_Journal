@@ -1,0 +1,4 @@
+This code allows your sprite to run up. Each ordered pair corresponds with a
+still image of the sprite. The 8th row on the sprite sheet ogrespritesheet
+is the run up animation. It would be unproductive to memorize the Slick syntax
+because we are trying to practice our error handling skills.
