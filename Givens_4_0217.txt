@@ -1,0 +1,7 @@
+--
+--private int[] thing1 = new int[4];
+--private String[] thing2 = new String[7];
+--private boolean[] thing3 = new boolean[5];
+--private double[] thing4 = new double[6];
+--thing1[0] = 42;
+--
