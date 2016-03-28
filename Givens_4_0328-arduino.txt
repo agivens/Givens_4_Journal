@@ -1,0 +1,8 @@
+The code commenting is the same, but what are called classes in Java are 
+called functions in the variant of C. The arduino's code affects physical 
+circuits and components, where as Java creates a program that creates 
+something on the computer screen. A circuit needs a power source, an object
+being affected , like a light or button, and wires connected to the circuit 
+and grounding it. One project I completed last week made a light dim or 
+brighten depending on how much pressure you put on the sensor. That was one of 
+the first times accepting user input using an arduino in the examples provided.
