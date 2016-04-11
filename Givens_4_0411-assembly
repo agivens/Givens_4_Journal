@@ -1,0 +1,6 @@
+Assembly is a high-level language program like C/C++. It's good for giving
+direct and complete control over certain system hardware. High level languages
+require fewer lines of code, but are more complicated. Lower level languages
+require more lines of code, but are less complicated. Java is a lower level
+language. It requires more lines of code but is easier to understand than
+higher level languages. Assembly is a higher level language.
