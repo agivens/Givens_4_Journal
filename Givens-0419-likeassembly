@@ -1,0 +1,7 @@
+The jumps in Human Resource Machine and assembly are very similar to each 
+other. In both, there is a general jump and a specialized jump. The general
+jump in both the computing language and the game jumps to wherever the code
+dictates. The specialized jump is somewhat different in the language and in 
+the game. In the game, the specialized jump checks if the number is negative
+or if the number is a zero. In the programming language, the specialized loop
+checks the value of the number against another value.
