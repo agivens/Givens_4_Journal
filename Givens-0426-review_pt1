@@ -1,0 +1,12 @@
+void javacubed {
+        int x;
+        System.out.println(x*x*x);
+}
+
+student {
+        object pencil;
+}
+
+If we were to continue with arduino I would want to make a song play with
+lights syncronised somehow. I really don't have any ideas at the moment.
+
