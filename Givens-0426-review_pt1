@@ -1,9 +1,8 @@
-void javacubed {
-        int x;
+javacubed(int x) {
         System.out.println(x*x*x);
 }
 
-student {
+class student {
         object pencil;
 }
 
