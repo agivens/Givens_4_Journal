@@ -1,0 +1,21 @@
+To write a 2D array you first specify the type of array, like int or char, 
+type two sets of empty brackets, name the array, type new and the type again, 
+then two sets of brackets filled with the length of the array in each. To write 
+a 3D array, you do everything just like a 2D array except change the number of 
+brackets from 2 to 3. To change the value for the third value in a one 
+dimensional array, you type:
+grid[2] = 'x';
+To write a while loop, you type while with parenthesis next to it, with open 
+curly brackets next to the parenthesis. Inside the parenthesis you place the
+conditions for the while loop. Inside the brackets you place the code you want 
+to run while the conditions are true/false. You use while loops in the game to 
+insure the game ends when the player loses/wins. You call the method by typing
+the name of the method with parenthesis next to it. Inside the parenthesis you
+type the information needed for the method to work. it was recommended to use
+.toLowercase because the scanner doesn't understand capital letters if 
+lowercase letters are specified. You call the methods at different times to
+separate the actions. You separate the actions to show the changes at each 
+step of the process. You will pass the player and enemy positions across 
+methods. You pass them between methods because numerous methods need them to 
+move them and determine if they occupy the same space. You pass them between 
+methods by making the values public.
