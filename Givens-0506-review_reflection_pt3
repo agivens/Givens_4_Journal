@@ -1,0 +1,26 @@
+In mymap[67][43], 67 is the x coordinate and 43 is the y coordinate. This is 
+because an array is set up like a coordinate pair, so the x value comes first.
+#a:if (i=0){ 
+       System.out.print("8888"); #a
+   }
+Prints 8888 if i(the x value) is equal to 0.
+#b:else {
+       System.out.print(map[i][j]); #b
+   }
+This prints the map.
+#c:if (map[i][j] != 'x') {
+        System.out.println("."); #c
+   }
+This code prints a '.' if the space doesn't contain a 'x'.
+#d:else {
+      System.out.println(map[i][j]); #d
+   }
+This prints the map.
+You can use the boolean to set the conditions for the while loop. For example,
+if you set up a while loop to stop the game after an enemy is incountered it
+would look something like this:
+keepplaying = true;
+while(keepplaying) {
+	playersalive();
+}
+Static means the value cannot be altered.
